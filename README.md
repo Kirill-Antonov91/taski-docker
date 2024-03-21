@@ -80,5 +80,5 @@ https://kirilltaski.hopto.org/
 
 (временно приостановлено, переезжаем)
 
-### Над проектом работал (бэкенда и деплой)
+### Над проектом работал (бэкенд и деплой)
 [KirillAntonov](https://github.com/Kirill-Antonov91)
